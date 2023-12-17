@@ -234,10 +234,7 @@ const main = (dtoIn) => {
     // Vrácení výsledku
     return dtoOut;
 };
-// Funkce pro generování zaměstnaneckých dat na základě vstupních dat
-const generateEmployeeData = (dtoIn) => {
-    return main(dtoIn);
-};
+
 // Funkce pro získání statistik zaměstnanců
 const getEmployeeStatistics = (employeeData) => {
     const employeeCount = employeeData.length;
