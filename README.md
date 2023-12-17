@@ -2,8 +2,8 @@
 JavaScript program, that generates random employee data based on certain input parameters.
 
 
-Code is a JavaScript program that generates random employee data based on certain input parameters. Let's break down what the code does:
-
+**Code is a JavaScript program that generates random employee data based on certain input parameters. Let's break down what the code does:
+**
 Input Configuration:
 
 The dtoIn object is used to configure the generation of employee data. It includes the total count of employees (count) and age range (age with min and max values).
